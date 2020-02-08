@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${vcpkgRoot}/x86-windows/include/**"
+                "${vcpkgRoot}/x86-windows/include/**",
+                "D:/tools/emsdk/upstream/emscripten/system/include"
             ],
             "defines": [
                 "_DEBUG",
