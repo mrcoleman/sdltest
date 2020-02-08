@@ -1,0 +1,1 @@
+Playing with wasm and sdl. Based on https://github.com/timhutton/sdl-canvas-wasm .
